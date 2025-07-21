@@ -25,4 +25,6 @@ If you want to explore this darknet marketplace, always prioritize your security
 <a href="http://ys4fenuwwagecir4avgajycoozdmyn2prxbkeq6vngtr7bvbe6pdt6qd.onion"><img src="/vendor/status.webp" alt="image" style="max-width: 100%;"><a>  
 <a href="http://ys4fenuwwagecir4avgajycoozdmyn2prxbkeq6vngtr7bvbe6pdt6qd.onion"><img src="/vendor/form.webp" alt="image" style="max-width: 100%;"><a>
 
-Update:  18 July
+
+
+Update: Link is now active and responsive
