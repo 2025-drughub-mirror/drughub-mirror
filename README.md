@@ -27,4 +27,6 @@ If you want to explore this darknet marketplace, always prioritize your security
 
 
 
-Update: Link is now active and responsive
+
+
+Update:  07/24/2025
