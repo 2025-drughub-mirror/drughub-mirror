@@ -31,4 +31,6 @@ If you want to explore this darknet marketplace, always prioritize your security
 
 
 
-Update:  Monday 04 August 2025 url is now available
+
+
+Update:  08/13/2025
