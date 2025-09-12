@@ -37,4 +37,6 @@ If you want to explore this darknet marketplace, always prioritize your security
 
 
 
-Update:  23.08.2025
+
+
+Update:  Friday 12 September 2025
