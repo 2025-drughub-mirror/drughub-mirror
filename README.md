@@ -4,12 +4,12 @@ Darknet marketplaces, such as DrugHub, provide access to anonymous services and 
 
 ## DrugHub: Market URL:
 
-http://ys4fenuwwagecir4avgajycoozdmyn2prxbkeq6vngtr7bvbe6pdt6qd.onion
+http://drughub2pwzkzjtcuarf5p2f6sxmh7tjuiyw4uwcah4hjtf47oipciad.onion
 
-[<img src="/vendor/fix.webp" width="200">](http://ys4fenuwwagecir4avgajycoozdmyn2prxbkeq6vngtr7bvbe6pdt6qd.onion)
+[<img src="/vendor/fix.webp" width="200">](http://drughub2pwzkzjtcuarf5p2f6sxmh7tjuiyw4uwcah4hjtf47oipciad.onion)
 
 
-<a href="http://ys4fenuwwagecir4avgajycoozdmyn2prxbkeq6vngtr7bvbe6pdt6qd.onion"><img src="/vendor/basic.webp" alt="image" style="max-width: 100%;"><a>
+<a href="http://drughub2pwzkzjtcuarf5p2f6sxmh7tjuiyw4uwcah4hjtf47oipciad.onion"><img src="/vendor/basic.webp" alt="image" style="max-width: 100%;"><a>
 
 This is an educational platform designed solely for informational purposes, giving you a view into the dark web. We do not collect commissions or kickbacks from any market affiliate links. We are not associated with any legal entities and do not endorse or promote illegal activities. Always prioritize your safety.
 
@@ -22,8 +22,8 @@ To avoid potential scams, it is essential to only use trusted DrugHub links and 
 If you want to explore this darknet marketplace, always prioritize your security and implement necessary precautions when browsing and making purchases.
 
 
-<a href="http://ys4fenuwwagecir4avgajycoozdmyn2prxbkeq6vngtr7bvbe6pdt6qd.onion"><img src="/vendor/status.webp" alt="image" style="max-width: 100%;"><a>  
-<a href="http://ys4fenuwwagecir4avgajycoozdmyn2prxbkeq6vngtr7bvbe6pdt6qd.onion"><img src="/vendor/form.webp" alt="image" style="max-width: 100%;"><a>
+<a href="http://drughub2pwzkzjtcuarf5p2f6sxmh7tjuiyw4uwcah4hjtf47oipciad.onion"><img src="/vendor/status.webp" alt="image" style="max-width: 100%;"><a>  
+<a href="http://drughub2pwzkzjtcuarf5p2f6sxmh7tjuiyw4uwcah4hjtf47oipciad.onion"><img src="/vendor/form.webp" alt="image" style="max-width: 100%;"><a>
 
 
 
@@ -39,4 +39,6 @@ If you want to explore this darknet marketplace, always prioritize your security
 
 
 
-Update:  Friday 12 September 2025
+
+
+Update:  14 September 2025
